@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm gricciardi 👋
 
-<!--
-**gricciardi/gricciardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer & Digital Marketing Specialist  
+🎯 Passionate about building clean UI, writing effective copy, and boosting conversions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Featured Project
+
+### 🔗 [ConvertBoost – High-Converting Landing Page](https://gricciardi.github.io/convertboost-landingpage/)
+
+A fully responsive, conversion-focused landing page built with:
+
+- ✅ HTML & CSS  
+- ✅ JavaScript (Dark Mode Toggle)  
+- ✅ SEO- and marketing-driven copywriting  
+- ✅ GitHub Pages deployment
+
+📌 [View the source code](https://github.com/gricciardi/convertboost-landingpage)
+
+---
+
+## ⚒️ What I Do
+
+- Develop responsive and accessible web interfaces  
+- Combine code + design + marketing for maximum impact  
+- Automate processes and build digital tools  
+- Experiment with creative projects (audio, AI, automation)
+
+---
+
+## 🚧 More coming soon
+
+- 🎮 A retro game built with JavaScript  
+- 📊 Simple dashboards and automation tools  
+- 🎵 Creative experiments with AI & music  
+- 📄 Markdown templates and productivity hacks
+
+---
+
+## 📫 Get in touch
+- LinkedIn: [linkedin.com/in/gaetano-ricciardi](https://linkedin.com/in/gaetano-ricciardi)
+- Email: ricciardiga@gmail.com
