@@ -1,4 +1,4 @@
-# Hi, I'm gricciardi 👋
+# Hi, I'm Gaetano Ricciardi 👋
 
 🚀 Frontend Developer & Digital Marketing Specialist  
 🎯 Passionate about building clean UI, writing effective copy, and boosting conversions  
